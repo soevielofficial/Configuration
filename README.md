@@ -3,7 +3,7 @@ a place to store some configuration files.
 
 ## Counter-Strike: Global Offensive
 ### Resolution:
-- 1024x768 (4:3)
+- 1024x768 (4:3) Stretched
 
 ### Graphic:
 - All low
@@ -45,7 +45,7 @@ a place to store some configuration files.
 
 ## Point Blank
 ### Resolution:
-- 1024x768 (4:3)
+- 1024x768 (4:3) Stretched
 
 ### Graphic:
 - All low
