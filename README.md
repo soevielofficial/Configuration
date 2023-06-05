@@ -42,3 +42,23 @@ a place to store some configuration files.
 ### Launch Options
 
 - -novid -console -high -lv
+
+## Point Blank
+### Resolution:
+- 1024x768 (4:3)
+
+### Graphic:
+- All low
+
+### NVIDIA Game Filter: (for better vision)
+- Color
+    - Tint Colour: 0%
+    - Tint Intensity: 0%
+    - Temperature: 0%
+    - Vibrance: 100%
+
+- Detail
+    - Sharpen: 25%
+    - Clarity: 0%
+    - HDR Toning: 100%
+    - Bloom: 0%
